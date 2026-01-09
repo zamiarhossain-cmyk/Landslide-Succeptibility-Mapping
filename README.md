@@ -35,7 +35,7 @@ One-hot encoding applied consistently for both training and raster prediction
 
 Random Forest trained using stratified 70/30 split
 
-Model performance evaluated using Accuracy, ROC–AUC, and Confusion Matrix
+Model performance evaluated using ROC–AUC
 
 Feature importance aggregated by physical meaning
 
