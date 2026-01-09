@@ -1,0 +1,1 @@
+# Landslide-Succeptibility-Mapping
